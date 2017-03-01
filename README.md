@@ -1,2 +1,2 @@
-# mipt-web-2016
-My web projects
+# mipt-py-2017
+Python tasks from MIPT Python course
